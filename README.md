@@ -1,6 +1,6 @@
 # Teresa's Skills Showcase
 
-Hello! I'm Teresa, an aspiring python developer with a passion for extracting insights from data. This repository showcases some of the projects I've worked on, demonstrating my skills in data analysis, data cleaning, and SQL.
+Hello! I'm Teresa, an aspiring python developer with a focus on extracting insights from data. This repository showcases some of the projects I've worked on, demonstrating my skills in data analysis, data cleaning, and SQL.
 
 ## Table of Contents
 
