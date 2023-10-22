@@ -24,8 +24,7 @@ Hello! I'm Teresa, an aspiring python developer with a passion for extracting in
 
 ### IBM Final Project: Advanced SQL Techniques
 
-- **Description:** A project showcasing advanced SQL techniques using a rich dataset. It demonstrates SQL's capabilities in handling complex data retrieval tasks involving joins, subqueries, and advanced filtering.
-- **Technologies/Tools:** SQL
+- **Description:** A project showcasing advanced SQL techniques using a rich dataset. It demonstrates SQL's capabilities in handling complex data retrieval tasks involving joins, stored procedures and transactions.
 - [Link to Project](https://github.com/Terilane/portfolio/blob/main/IBM_Final_Project_Advanced_SQL_Techniques.ipynb)
 
 ### IBM Databases and SQL Assignment
