@@ -41,7 +41,7 @@ Hello! I'm Teresa, an aspiring python developer with a focus on extracting insig
 
 ### Comparison of the Roman Catholic Church's Membership in Poland: 2011 vs. 2021
 
-- **Description:** A simple analysis comparing the percentage of the Polish population that identified with the Roman Catholic Church in 2011 and 2021.
+- **Description:** A very simple analysis comparing the percentage of the Polish population that identified with the Roman Catholic Church in 2011 and 2021.
 - **Technologies/Tools:** Python, Pandas, Matplotlib
 - [Link to Project](https://github.com/Terilane/portfolio/blob/main/comparison_roman_church_poland_2011_vs_2021.ipynb)
 
