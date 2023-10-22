@@ -11,6 +11,12 @@ Hello! I'm Teresa, an aspiring python developer with a focus on extracting insig
 <a name="projects"></a>
 ## Projects
 
+### PySpark Data Cleaning & Analysis on MovieLens Dataset
+
+- **Description:** Utilizing the capabilities of PySpark, I performed data cleaning and exploratory data analysis on the MovieLens 100K dataset. The primary focus was on the distribution of movie ratings, with a particular emphasis on the horror genre.
+- **Technologies/Tools:** PySpark, Python, Pandas, Matplotlib, Seaborn
+- [Link to Project](#)
+
 ### Comparison of World Happiness Reports from 2015 and 2019
 - **Description:** A comparative analysis of the World Happiness Reports from the years 2015 and 2019. This project uncovers trends, shifts in rankings, and the evolving significance of various factors contributing to happiness across countries.
 - **Technologies/Tools:** Python, Pandas, Matplotlib, Seaborn
